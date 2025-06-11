@@ -46,7 +46,7 @@ Whether you're growing a YouTube channel or optimizing marketing campaigns, PULZ
 
 ## Project Structure
 
-PULZ-ai/
+''' PULZ-ai/
 │
 ├── notebooks/
 │   ├── 01_data_cleaning_eda.ipynb         # Exploratory Data Analysis & initial cleaning
@@ -69,6 +69,7 @@ PULZ-ai/
 ├── README.md                              # This file: Project overview and setup guide
 └── .gitignore                             # Files/directories to ignore in Git
 
+'''
 ---
 
 ## How to Run (Local Setup)
