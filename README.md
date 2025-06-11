@@ -45,6 +45,7 @@ Whether you're growing a YouTube channel or optimizing marketing campaigns, PULZ
 ---
 
 ## Project Structure
+
 PULZ-ai/
 │
 ├── notebooks/
@@ -70,7 +71,7 @@ PULZ-ai/
 
 ---
 
-## 💡 How to Run (Local Setup)
+## How to Run (Local Setup)
 
 1.  **Clone the repository**:
     ```bash
@@ -104,7 +105,7 @@ PULZ-ai/
 
 ---
 
-## 💬 Example Use Case
+## Example Use Case
 
 ```plaintext
 User: "Is this YouTube title good? 'Top 10 Time-Saving Tips for Creators'"
